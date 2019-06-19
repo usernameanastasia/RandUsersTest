@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandUsersApp</string>
+    <string name="phone">PHONE</string>
+    <string name="cell">CELL</string>
+    <string name="city">CITY</string>
+    <string name="gender">GENDER</string>
+    <string name="email">EMAIL</string>
+    <string name="back">BACK</string>
+    <string name="nation">NATION</string>
+</resources>
